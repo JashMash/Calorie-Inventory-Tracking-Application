@@ -53,7 +53,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 	2. Create app
 	3. default settings
 	4. Create firebase.js file at base and paste the code block given 
-	5. ![alt text](<./README_Images/firebase_code_block.png>)
+	5. ![alt text](./README_Images/firebase_code_block-hidden.png)
 5. Now in the firebase console click on build>Firestore Database > create database
 	1. leave the name
 	2. MAKE IT IN test mode
