@@ -1,7 +1,7 @@
-# Calorie-tracker-Pantry-Application
+# Calorie & InventoryTracking Application
 Project dedicated to learning Node, firebase, vercel, and image recognition.
 
-Here I have created a Pantry Tracking application,
+Here I have created a Inventory Tracking application,
 ## Current features
 - Adding new items with name, quantity and calories
 - Editing existing items' quantity and calories
